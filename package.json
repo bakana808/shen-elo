@@ -1,0 +1,24 @@
+{
+  "name": "shen-elo",
+  "version": "1.0.0",
+  "description": "An implementation of the Elo ranking system that is used for shen-rankings",
+  "main": "index.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branden-akana/shen-elo.git"
+  },
+  "keywords": [
+    "elo",
+    "rankings"
+  ],
+  "author": "octopod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/branden-akana/shen-elo/issues"
+  },
+  "homepage": "https://github.com/branden-akana/shen-elo#readme"
+}

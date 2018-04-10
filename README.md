@@ -1,0 +1,1 @@
+An implementation of the Elo ranking system that is used for [shen-rankings](https://github.com/branden-akana/shen).
